@@ -1,18 +1,1 @@
-
-
-Lession 5
-
-POST URL
-
-https://localhost:5001/api/contactItems
-
-DATA
-
-{
-  "customer" : 1,
-  "Country" : "ABC",
-  "BusinessType" : "ABCD",
-  "MainProducts" : "ABCDEF"
-}
-
-
+相關文件在 20210226 自學 ASP.NET Core 3 API 裡面
