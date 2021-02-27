@@ -14,10 +14,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{90F1A192-6B9B-48C2-B6CE-0DEC23A1740F}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		TextFile1.txt = TextFile1.txt
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession5", "src\Lession5\Lession5.csproj", "{C7B5DC4D-D8ED-4BAA-91FE-2F9E36B83088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession5", "src\Lession5\Lession5.csproj", "{C7B5DC4D-D8ED-4BAA-91FE-2F9E36B83088}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
