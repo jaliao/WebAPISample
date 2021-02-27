@@ -4,8 +4,7 @@ namespace Lession6.Models
 {
     public class ContactContext : DbContext
     {
-        public ContactContext(DbContextOptions<ContactContext> options)
-  : base(options)
+        public ContactContext(DbContextOptions<ContactContext> options) : base(options)
         {
         }
 

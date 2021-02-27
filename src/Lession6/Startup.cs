@@ -27,8 +27,15 @@ namespace Lession6
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ContactContext>(opt =>
+            /*
+             * services.AddDbContext<ContactContext>(opt =>
                 opt.UseInMemoryDatabase("ContactUs"));
+            */
+
+            services.AddDbContext<ContactContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("sConn")));
+
+
             services.AddControllers();
         }
 

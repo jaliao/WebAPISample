@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession1", "src\Lession1\Lession1.csproj", "{B5AAE056-A1BE-4463-8C4C-23FEEE62FC47}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession4", "src\Lession4\Lession4.csproj", "{F547BA35-86B1-40C9-B048-94169CC20BFE}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession2", "src\Lession2\Lession2.csproj", "{11EABA20-A4A1-430F-B4EE-363264B16527}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession3", "src\Lession3\Lession3.csproj", "{E9FD190D-9E35-4C3E-9845-E342DC41E4B5}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{90F1A192-6B9B-48C2-B6CE-0DEC23A1740F}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession5", "src\Lession5\Lession5.csproj", "{C7B5DC4D-D8ED-4BAA-91FE-2F9E36B83088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession6", "src\Lession6\Lession6.csproj", "{F5109C85-BF5E-4427-A291-1325AC80DA50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession6", "src\Lession6\Lession6.csproj", "{F5109C85-BF5E-4427-A291-1325AC80DA50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession1", "src\Lession1\Lession1.csproj", "{93F1C00B-FDE9-4427-A976-9510908DD215}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession2", "src\Lession2\Lession2.csproj", "{34B54DC6-99ED-446B-B31F-E976931811CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession3", "src\Lession3\Lession3.csproj", "{6CAF0641-DA77-4208-9942-2A2046F23F7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession4", "src\Lession4\Lession4.csproj", "{A83B79E0-B663-4F35-BDD0-9F9419C90CF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lession5", "src\Lession5\Lession5.csproj", "{2301FF70-7746-4AC1-A814-25799218B77A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,30 +27,30 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B5AAE056-A1BE-4463-8C4C-23FEEE62FC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5AAE056-A1BE-4463-8C4C-23FEEE62FC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5AAE056-A1BE-4463-8C4C-23FEEE62FC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5AAE056-A1BE-4463-8C4C-23FEEE62FC47}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F547BA35-86B1-40C9-B048-94169CC20BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F547BA35-86B1-40C9-B048-94169CC20BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F547BA35-86B1-40C9-B048-94169CC20BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F547BA35-86B1-40C9-B048-94169CC20BFE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{11EABA20-A4A1-430F-B4EE-363264B16527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11EABA20-A4A1-430F-B4EE-363264B16527}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11EABA20-A4A1-430F-B4EE-363264B16527}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11EABA20-A4A1-430F-B4EE-363264B16527}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9FD190D-9E35-4C3E-9845-E342DC41E4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9FD190D-9E35-4C3E-9845-E342DC41E4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9FD190D-9E35-4C3E-9845-E342DC41E4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9FD190D-9E35-4C3E-9845-E342DC41E4B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7B5DC4D-D8ED-4BAA-91FE-2F9E36B83088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7B5DC4D-D8ED-4BAA-91FE-2F9E36B83088}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7B5DC4D-D8ED-4BAA-91FE-2F9E36B83088}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7B5DC4D-D8ED-4BAA-91FE-2F9E36B83088}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F5109C85-BF5E-4427-A291-1325AC80DA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F5109C85-BF5E-4427-A291-1325AC80DA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5109C85-BF5E-4427-A291-1325AC80DA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5109C85-BF5E-4427-A291-1325AC80DA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F1C00B-FDE9-4427-A976-9510908DD215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F1C00B-FDE9-4427-A976-9510908DD215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F1C00B-FDE9-4427-A976-9510908DD215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F1C00B-FDE9-4427-A976-9510908DD215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B54DC6-99ED-446B-B31F-E976931811CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B54DC6-99ED-446B-B31F-E976931811CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B54DC6-99ED-446B-B31F-E976931811CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B54DC6-99ED-446B-B31F-E976931811CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAF0641-DA77-4208-9942-2A2046F23F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAF0641-DA77-4208-9942-2A2046F23F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAF0641-DA77-4208-9942-2A2046F23F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAF0641-DA77-4208-9942-2A2046F23F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83B79E0-B663-4F35-BDD0-9F9419C90CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83B79E0-B663-4F35-BDD0-9F9419C90CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83B79E0-B663-4F35-BDD0-9F9419C90CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83B79E0-B663-4F35-BDD0-9F9419C90CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2301FF70-7746-4AC1-A814-25799218B77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2301FF70-7746-4AC1-A814-25799218B77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2301FF70-7746-4AC1-A814-25799218B77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2301FF70-7746-4AC1-A814-25799218B77A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
